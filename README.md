@@ -4,6 +4,11 @@
 
 Witamy na hackathonie **Noc Sztucznej Inteligencji**! Twoim zadaniem jest stworzenie inteligentnego agenta, który potrafi grać w Uno i pokonać swoich przeciwników.
 
+### Serwer discord
+
+Zapraszany do dyskusji na [serwerze discord](https://discord.gg/278pmZ8F)! 🤖🤖🤖
+
+
 ## 📋 Spis Treści
 
 - [Szybki Start](#szybki-start)
