@@ -109,7 +109,7 @@ Stan gry jest przekazywany jako słownik Pythona z następującymi kluczami:
 ```python
 state = {
     'obs': np.ndarray,           # Tensor obserwacji (4, 4, 15)
-    'legal_actions': list,       # Słownik dostępnych akcji
+    'legal_actions': dict,       # Słownik dostępnych akcji
     'raw_obs': dict,             # Czytelne dla człowieka informacje o grze
     'raw_legal_actions': list,   # Lista nazw dostępnych akcji
     'action_record': list        # Historia zagranych akcji
